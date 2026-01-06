@@ -1,5 +1,5 @@
 module.exports = {
-  API_KEYS: ['rizkyymek'],
+  API_KEYS: ['wayscolex'],
   SMTP_HOST: 'smtp.gmail.com',
   SMTP_PORT: 465,
   SMTP_SECURE: true,
