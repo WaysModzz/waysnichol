@@ -100,7 +100,7 @@ module.exports = async (req, res) => {
     const uniqueId = Math.floor(Date.now() / 1000)
     const subject = `Banding ${uniqueId}`
     const text = `Halo pihak WhatsApp,
-Perkenalkan nama saya (RizkyMaxz).
+Perkenalkan nama saya (WaysModzz).
 Saya ingin mengajukan banding tentang mendaftar nomor telepon.
 Saat registrasi muncul teks "login tidak tersedia".
 Mohon untuk memperbaiki masalah tersebut.
